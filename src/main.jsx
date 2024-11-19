@@ -5,12 +5,17 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import PNF from './Pages/PNF/PNF.jsx';
 import './index.css'
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+  },
+  {
+    path: "*",
+    element: <PNF />,
   },
 ]);
 
