@@ -1,5 +1,7 @@
 # RetireMate  
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5fa6b55f-f4f7-4520-b011-6a5faf03bcc3/deploy-status)](https://app.netlify.com/sites/retiremate/deploys)
+
 Visit the live project: [RetireMate](https://retiremate.netlify.app/)  
 
 ## Overview  
